@@ -1,3 +1,11 @@
+Library
+obj
+.gitignore
+*.zip
+build
+*.apk
+Assets/Unity-logs-viewer*
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
